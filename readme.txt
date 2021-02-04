@@ -1,3 +1,5 @@
+[Anonymous] Code for KDD2021 Research Track Submission 1557.
+
 [main.py]: Main file;
 [load_data.py]: Prepare the experiment data for transductive learning;
 [models.py]: Prepare the experiment GNN model;
